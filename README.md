@@ -1,8 +1,8 @@
 # Testy platforma AI dla Ksiegowosci
 
-## Specyfikacja
-
-## Referencje
+## Spec
 
 ## TODO
-- krok pierwszy
+krok pierwszy
+
+## Referencjey
