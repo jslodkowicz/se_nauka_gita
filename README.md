@@ -4,5 +4,6 @@
 
 ## TODO
 krok pierwszy
+krok drugi
 
 ## Referencjey
