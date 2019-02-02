@@ -7,5 +7,8 @@
 * _step two_
 
 ## Smoke tests
+1. Test 1
+1. Test 2
+1. Test 3
 
 ## Referencje
