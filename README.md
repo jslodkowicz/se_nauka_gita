@@ -5,3 +5,5 @@
 ## Referencje
 
 ## Zmiany / literowki
+
+## Kolejne zmiany
