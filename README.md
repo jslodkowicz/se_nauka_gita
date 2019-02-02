@@ -1,7 +1,7 @@
 # Testy platforma AI dla Ksiegowosci
 
-## Spec
+## Specyfikacja
 
-## Referencj
+## Referencje
 
-## Kolejne zmiany
+## Zmiany / literowki
