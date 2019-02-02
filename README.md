@@ -4,6 +4,4 @@
 
 ## Referencje
 
-## Zmiany / literowki
-
-## Kolejne zmiany
+## TODO
