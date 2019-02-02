@@ -3,7 +3,7 @@
 ## Spec
 
 ## TODO
-krok pierwszy
-krok drugi
+* _step one_
+* _step two_
 
-## Referencjey
+## Referencje
