@@ -11,7 +11,10 @@
 	1. Krok 1
 	1. Krok 2
 	1. Krok 3
+	1. Krok 4
 1. Test 2
+	1. Krok 1
+	1. Krok 2
 1. Test 3
 
 ## Referencje
